@@ -1,0 +1,6 @@
+{
+    "php.validate.enable": true,
+    "php.validate.run": "onSave",
+    "php.validate.executablePath": "/usr/bin/php",
+    "editor.formatOnSave": true
+}
